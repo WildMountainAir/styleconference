@@ -207,8 +207,13 @@ cite, em {
   text-transform: uppercase;
 }
 .btn-alt {
-  border: 1px solid #dfe2e5;
+  border: 1px solid #ffffff;
   padding: 10px 30px;
+}
+
+.btn-alt:hover {
+  background: #ffffff;
+  color: #648880;
 }
 
 /*
