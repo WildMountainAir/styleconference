@@ -278,6 +278,10 @@ p a {
   text-transform: uppercase;
 }
 
+.nav {
+  text-align: right;
+}
+
 /*
   ========================================
   Primary header
