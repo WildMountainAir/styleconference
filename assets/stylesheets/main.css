@@ -198,8 +198,13 @@ cite, em {
 
 .btn {
   border-radius: 5px;
+  color: #ffffff;
+  cursor: pointer;
   display: inline-block;
+  font-weight: 400;
+  letter-spacing: .5px;
   margin: 0;
+  text-transform: uppercase;
 }
 .btn-alt {
   border: 1px solid #dfe2e5;
